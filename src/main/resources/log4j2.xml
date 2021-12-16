@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration status="warn" name="log4j2 dos poc" packages="">
+    <!--test-->
+
+    <appenders>
+        <File name="MyFile" fileName="logs/app.log">
+            <PatternLayout>
+                <pattern>%d %p %c{1.} [%t] $${ctx:message} %m%n</pattern>-->
+            </PatternLayout>
+        </File>
+        <Async name="Async">
+            <AppenderRef ref="MyFile"/>
+        </Async>
+        <console name="STDOUT" target="SYSTEM_OUT">
+            <PatternLayout pattern="%message{lookups}%n"/>
+        </console>
+    </appenders>
+    <!--poc1-->
+<!--    <appenders>-->
+<!--        <console name="STDOUT" target="SYSTEM_OUT">-->
+<!--            <PatternLayout>-->
+<!--                <pattern>%d %p %c{1.} [%t] $${ctx:message} %m%n</pattern>-->
+<!--            </PatternLayout>-->
+<!--        </console>-->
+<!--    </appenders>-->
+    <Loggers>
+        <Root level="info">
+            <AppenderRef ref="STDOUT"/>
+            <AppenderRef ref="Async"/>
+        </Root>
+    </Loggers>
+</Configuration>

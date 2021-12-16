@@ -1,0 +1,119 @@
+2021-12-16 16:15:34,307 INFO c.e.d.Demo1Application [main] Starting Demo1Application using Java 1.8.0_275 on ShellSnipers-MacBook-Pro.local with PID 84911 (/Users/levonpro/WorkSpace/projects/log4j-dos/target/classes started by levonpro in /Users/levonpro/WorkSpace/projects/log4j-dos)
+ 
+2021-12-16 16:15:34,315 INFO c.e.d.Demo1Application [main] No active profile set, falling back to default profiles: default
+ 
+2021-12-16 16:15:34,923 INFO o.s.b.w.e.t.TomcatWebServer [main] Tomcat initialized with port(s): 8080 (http)
+ 
+2021-12-16 16:15:34,968 INFO o.s.b.w.s.c.ServletWebServerApplicationContext [main] Root WebApplicationContext: initialization completed in 581 ms
+ 
+2021-12-16 16:15:35,203 INFO o.s.b.w.e.t.TomcatWebServer [main] Tomcat started on port(s): 8080 (http) with context path ''
+ 
+2021-12-16 16:15:35,212 INFO c.e.d.Demo1Application [main] Started Demo1Application in 1.172 seconds (JVM running for 2.051)
+ 
+2021-12-16 16:15:39,813 INFO o.s.w.s.DispatcherServlet [http-nio-8080-exec-1] Initializing Servlet 'dispatcherServlet'
+ 
+2021-12-16 16:15:39,814 INFO o.s.w.s.DispatcherServlet [http-nio-8080-exec-1] Completed initialization in 1 ms
+ 
+2021-12-16 16:15:50,739 ERROR c.e.d.TestController [http-nio-8080-exec-3] message:nebula
+ 
+2021-12-16 16:18:26,442 ERROR c.e.d.TestController [http-nio-8080-exec-4] message:nebula
+ 
+2021-12-16 16:21:28,479 INFO c.e.d.Demo1Application [main] Starting Demo1Application using Java 1.8.0_275 on ShellSnipers-MacBook-Pro.local with PID 85799 (/Users/levonpro/WorkSpace/projects/log4j-dos/target/classes started by levonpro in /Users/levonpro/WorkSpace/projects/log4j-dos)
+ 
+2021-12-16 16:21:28,487 INFO c.e.d.Demo1Application [main] No active profile set, falling back to default profiles: default
+ 
+2021-12-16 16:21:29,130 INFO o.s.b.w.e.t.TomcatWebServer [main] Tomcat initialized with port(s): 8080 (http)
+ 
+2021-12-16 16:21:29,181 INFO o.s.b.w.s.c.ServletWebServerApplicationContext [main] Root WebApplicationContext: initialization completed in 615 ms
+ 
+2021-12-16 16:21:29,408 INFO o.s.b.w.e.t.TomcatWebServer [main] Tomcat started on port(s): 8080 (http) with context path ''
+ 
+2021-12-16 16:21:29,416 INFO c.e.d.Demo1Application [main] Started Demo1Application in 1.189 seconds (JVM running for 2.007)
+ 
+2021-12-16 16:21:32,869 INFO o.s.w.s.DispatcherServlet [http-nio-8080-exec-1] Initializing Servlet 'dispatcherServlet'
+ 
+2021-12-16 16:21:32,870 INFO o.s.w.s.DispatcherServlet [http-nio-8080-exec-1] Completed initialization in 1 ms
+ 
+2021-12-16 16:26:19,233 INFO c.e.d.Demo1Application [main] Starting Demo1Application using Java 1.8.0_275 on ShellSnipers-MacBook-Pro.local with PID 86335 (/Users/levonpro/WorkSpace/projects/log4j-dos/target/classes started by levonpro in /Users/levonpro/WorkSpace/projects/log4j-dos)
+ 
+2021-12-16 16:26:19,240 INFO c.e.d.Demo1Application [main] No active profile set, falling back to default profiles: default
+ 
+2021-12-16 16:26:19,752 INFO o.s.b.w.e.t.TomcatWebServer [main] Tomcat initialized with port(s): 8080 (http)
+ 
+2021-12-16 16:26:19,798 INFO o.s.b.w.s.c.ServletWebServerApplicationContext [main] Root WebApplicationContext: initialization completed in 529 ms
+ 
+2021-12-16 16:26:19,996 INFO o.s.b.w.e.t.TomcatWebServer [main] Tomcat started on port(s): 8080 (http) with context path ''
+ 
+2021-12-16 16:26:20,004 INFO c.e.d.Demo1Application [main] Started Demo1Application in 0.985 seconds (JVM running for 1.777)
+ 
+2021-12-16 16:26:22,687 INFO o.s.w.s.DispatcherServlet [http-nio-8080-exec-1] Initializing Servlet 'dispatcherServlet'
+ 
+2021-12-16 16:26:22,688 INFO o.s.w.s.DispatcherServlet [http-nio-8080-exec-1] Completed initialization in 0 ms
+ 
+2021-12-16 16:27:52,480 INFO c.e.d.Demo1Application [main] Starting Demo1Application using Java 1.8.0_275 on ShellSnipers-MacBook-Pro.local with PID 86988 (/Users/levonpro/WorkSpace/projects/log4j-dos/target/classes started by levonpro in /Users/levonpro/WorkSpace/projects/log4j-dos)
+ 
+2021-12-16 16:27:52,486 INFO c.e.d.Demo1Application [main] No active profile set, falling back to default profiles: default
+ 
+2021-12-16 16:27:53,101 INFO o.s.b.w.e.t.TomcatWebServer [main] Tomcat initialized with port(s): 8080 (http)
+ 
+2021-12-16 16:27:53,158 INFO o.s.b.w.s.c.ServletWebServerApplicationContext [main] Root WebApplicationContext: initialization completed in 643 ms
+ 
+2021-12-16 16:27:53,422 INFO o.s.b.w.e.t.TomcatWebServer [main] Tomcat started on port(s): 8080 (http) with context path ''
+ 
+2021-12-16 16:27:53,430 INFO c.e.d.Demo1Application [main] Started Demo1Application in 1.181 seconds (JVM running for 1.815)
+ 
+2021-12-16 16:27:55,621 INFO o.s.w.s.DispatcherServlet [http-nio-8080-exec-1] Initializing Servlet 'dispatcherServlet'
+ 
+2021-12-16 16:27:55,621 INFO o.s.w.s.DispatcherServlet [http-nio-8080-exec-1] Completed initialization in 0 ms
+ 
+2021-12-16 16:52:41,335 INFO c.e.d.Demo1Application [main] ${ctx:message} Starting Demo1Application using Java 1.8.0_275 on ShellSnipers-MacBook-Pro.local with PID 88948 (/Users/levonpro/WorkSpace/projects/log4j-dos/target/classes started by levonpro in /Users/levonpro/WorkSpace/projects/log4j-dos)
+2021-12-16 16:52:41,342 INFO c.e.d.Demo1Application [main] ${ctx:message} No active profile set, falling back to default profiles: default
+2021-12-16 16:52:41,973 INFO o.s.b.w.e.t.TomcatWebServer [main] ${ctx:message} Tomcat initialized with port(s): 8080 (http)
+2021-12-16 16:52:42,035 INFO o.s.b.w.s.c.ServletWebServerApplicationContext [main] ${ctx:message} Root WebApplicationContext: initialization completed in 664 ms
+2021-12-16 16:52:42,310 INFO o.s.b.w.e.t.TomcatWebServer [main] ${ctx:message} Tomcat started on port(s): 8080 (http) with context path ''
+2021-12-16 16:52:42,317 INFO c.e.d.Demo1Application [main] ${ctx:message} Started Demo1Application in 1.219 seconds (JVM running for 1.892)
+2021-12-16 16:52:46,602 INFO o.s.w.s.DispatcherServlet [http-nio-8080-exec-1] ${ctx:message} Initializing Servlet 'dispatcherServlet'
+2021-12-16 16:52:46,603 INFO o.s.w.s.DispatcherServlet [http-nio-8080-exec-1] ${ctx:message} Completed initialization in 1 ms
+2021-12-16 16:53:08,522 ERROR c.e.d.TestController [http-nio-8080-exec-2] ${ctx:message} message:${jndi:ldap://127.0.0.1:7777}
+2021-12-16 16:53:45,330 INFO c.e.d.Demo1Application [main] ${ctx:message} Starting Demo1Application using Java 1.8.0_275 on ShellSnipers-MacBook-Pro.local with PID 89180 (/Users/levonpro/WorkSpace/projects/log4j-dos/target/classes started by levonpro in /Users/levonpro/WorkSpace/projects/log4j-dos)
+2021-12-16 16:53:45,336 INFO c.e.d.Demo1Application [main] ${ctx:message} No active profile set, falling back to default profiles: default
+2021-12-16 16:53:45,885 INFO o.s.b.w.e.t.TomcatWebServer [main] ${ctx:message} Tomcat initialized with port(s): 8080 (http)
+2021-12-16 16:53:45,934 INFO o.s.b.w.s.c.ServletWebServerApplicationContext [main] ${ctx:message} Root WebApplicationContext: initialization completed in 566 ms
+2021-12-16 16:53:46,158 INFO o.s.b.w.e.t.TomcatWebServer [main] ${ctx:message} Tomcat started on port(s): 8080 (http) with context path ''
+2021-12-16 16:53:46,164 INFO c.e.d.Demo1Application [main] ${ctx:message} Started Demo1Application in 1.03 seconds (JVM running for 1.583)
+2021-12-16 16:53:54,485 INFO o.s.w.s.DispatcherServlet [http-nio-8080-exec-1] ${ctx:message} Initializing Servlet 'dispatcherServlet'
+2021-12-16 16:53:54,486 INFO o.s.w.s.DispatcherServlet [http-nio-8080-exec-1] ${ctx:message} Completed initialization in 0 ms
+2021-12-16 16:53:54,507 ERROR c.e.d.TestController [http-nio-8080-exec-1] ${ctx:message} message:${jndi:ldap://127.0.0.1:7777}
+2021-12-16 17:10:07,527 INFO c.e.d.Demo1Application [main] ${ctx:message} Starting Demo1Application using Java 1.8.0_275 on ShellSnipers-MacBook-Pro.local with PID 90468 (/Users/levonpro/WorkSpace/projects/log4j-dos/target/classes started by levonpro in /Users/levonpro/WorkSpace/projects/log4j-dos)
+2021-12-16 17:10:07,532 INFO c.e.d.Demo1Application [main] ${ctx:message} No active profile set, falling back to default profiles: default
+2021-12-16 17:10:08,039 INFO o.s.b.w.e.t.TomcatWebServer [main] ${ctx:message} Tomcat initialized with port(s): 8080 (http)
+2021-12-16 17:10:08,085 INFO o.s.b.w.s.c.ServletWebServerApplicationContext [main] ${ctx:message} Root WebApplicationContext: initialization completed in 528 ms
+2021-12-16 17:10:08,295 INFO o.s.b.w.e.t.TomcatWebServer [main] ${ctx:message} Tomcat started on port(s): 8080 (http) with context path ''
+2021-12-16 17:10:08,302 INFO c.e.d.Demo1Application [main] ${ctx:message} Started Demo1Application in 0.971 seconds (JVM running for 1.684)
+2021-12-16 17:11:23,641 INFO c.e.d.Demo1Application [main] ${ctx:message} Starting Demo1Application using Java 1.8.0_275 on ShellSnipers-MacBook-Pro.local with PID 90641 (/Users/levonpro/WorkSpace/projects/log4j-dos/target/classes started by levonpro in /Users/levonpro/WorkSpace/projects/log4j-dos)
+2021-12-16 17:11:23,649 INFO c.e.d.Demo1Application [main] ${ctx:message} No active profile set, falling back to default profiles: default
+2021-12-16 17:11:24,330 INFO o.s.b.w.e.t.TomcatWebServer [main] ${ctx:message} Tomcat initialized with port(s): 8080 (http)
+2021-12-16 17:11:24,383 INFO o.s.b.w.s.c.ServletWebServerApplicationContext [main] ${ctx:message} Root WebApplicationContext: initialization completed in 703 ms
+2021-12-16 17:11:24,654 INFO o.s.b.w.e.t.TomcatWebServer [main] ${ctx:message} Tomcat started on port(s): 8080 (http) with context path ''
+2021-12-16 17:11:24,662 INFO c.e.d.Demo1Application [main] ${ctx:message} Started Demo1Application in 1.232 seconds (JVM running for 1.927)
+2021-12-16 17:11:26,716 INFO o.s.w.s.DispatcherServlet [http-nio-8080-exec-1] ${ctx:message} Initializing Servlet 'dispatcherServlet'
+2021-12-16 17:11:26,717 INFO o.s.w.s.DispatcherServlet [http-nio-8080-exec-1] ${ctx:message} Completed initialization in 1 ms
+2021-12-16 17:11:30,079 ERROR c.e.d.TestController [http-nio-8080-exec-2] ${ctx:message} message:${jndi:ldap://127.0.0.1:7777}
+2021-12-16 17:12:13,966 INFO c.e.d.Demo1Application [main] ${ctx:message} Starting Demo1Application using Java 1.8.0_275 on ShellSnipers-MacBook-Pro.local with PID 90852 (/Users/levonpro/WorkSpace/projects/log4j-dos/target/classes started by levonpro in /Users/levonpro/WorkSpace/projects/log4j-dos)
+2021-12-16 17:12:13,974 INFO c.e.d.Demo1Application [main] ${ctx:message} No active profile set, falling back to default profiles: default
+2021-12-16 17:12:14,570 INFO o.s.b.w.e.t.TomcatWebServer [main] ${ctx:message} Tomcat initialized with port(s): 8080 (http)
+2021-12-16 17:12:14,618 INFO o.s.b.w.s.c.ServletWebServerApplicationContext [main] ${ctx:message} Root WebApplicationContext: initialization completed in 607 ms
+2021-12-16 17:12:14,850 INFO o.s.b.w.e.t.TomcatWebServer [main] ${ctx:message} Tomcat started on port(s): 8080 (http) with context path ''
+2021-12-16 17:12:14,858 INFO c.e.d.Demo1Application [main] ${ctx:message} Started Demo1Application in 1.104 seconds (JVM running for 1.896)
+2021-12-16 17:12:19,964 INFO o.s.w.s.DispatcherServlet [http-nio-8080-exec-1] ${ctx:message} Initializing Servlet 'dispatcherServlet'
+2021-12-16 17:12:19,965 INFO o.s.w.s.DispatcherServlet [http-nio-8080-exec-1] ${ctx:message} Completed initialization in 1 ms
+2021-12-16 17:12:19,987 ERROR c.e.d.TestController [http-nio-8080-exec-1] ${ctx:message} message:${jndi:ldap://127.0.0.1:7777}
+2021-12-16 17:13:41,828 INFO c.e.d.Demo1Application [main] ${ctx:message} Starting Demo1Application v0.0.1-SNAPSHOT using Java 1.8.0_275 on ShellSnipers-MacBook-Pro.local with PID 91013 (/Users/levonpro/WorkSpace/projects/log4j-dos/target/demo1-0.0.1-SNAPSHOT.jar started by levonpro in /Users/levonpro/WorkSpace/projects/log4j-dos)
+2021-12-16 17:13:41,835 INFO c.e.d.Demo1Application [main] ${ctx:message} No active profile set, falling back to default profiles: default
+2021-12-16 17:13:42,556 INFO o.s.b.w.e.t.TomcatWebServer [main] ${ctx:message} Tomcat initialized with port(s): 8080 (http)
+2021-12-16 17:13:42,610 INFO o.s.b.w.s.c.ServletWebServerApplicationContext [main] ${ctx:message} Root WebApplicationContext: initialization completed in 712 ms
+2021-12-16 17:13:42,943 INFO o.s.b.w.e.t.TomcatWebServer [main] ${ctx:message} Tomcat started on port(s): 8080 (http) with context path ''
+2021-12-16 17:13:42,951 INFO c.e.d.Demo1Application [main] ${ctx:message} Started Demo1Application in 1.338 seconds (JVM running for 2.116)
+2021-12-16 17:13:51,995 INFO o.s.w.s.DispatcherServlet [http-nio-8080-exec-1] ${ctx:message} Initializing Servlet 'dispatcherServlet'
+2021-12-16 17:13:51,996 INFO o.s.w.s.DispatcherServlet [http-nio-8080-exec-1] ${ctx:message} Completed initialization in 1 ms
+2021-12-16 17:13:52,025 ERROR c.e.d.TestController [http-nio-8080-exec-1] ${ctx:message} message:${jndi:ldap://127.0.0.1:7777}
